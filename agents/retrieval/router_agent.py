@@ -35,7 +35,7 @@ from schemas.agent_schema import (
 )
 
 
-# ── Router Output Model ──────────────────────────────────────────────────────
+# ── Router Output Model ─────────────────────────────────────────────────
 
 class RouterOutput(BaseModel):
     """Structured output produced by the Router Agent.

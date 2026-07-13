@@ -3,7 +3,7 @@ Module: agents/base_agent.py
 
 Purpose:
     Defines the abstract base class that every agent in the Institutional
-    Memory System must inherit from and implement.
+    Memory System must inherit from and implement. every agent will use this agent.
 
 Responsibilities:
     - Enforce a consistent interface across all agents via abstract methods.

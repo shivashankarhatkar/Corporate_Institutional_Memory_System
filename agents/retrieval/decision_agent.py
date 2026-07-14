@@ -37,7 +37,6 @@ from schemas.agent_schema import (
 )
 from schemas.memory_schema import VectorSearchResult
 
-
 class DecisionAgent(BaseAgent):
     """Specialist agent for decision-related institutional memory queries.
 

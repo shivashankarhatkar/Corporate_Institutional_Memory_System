@@ -95,7 +95,6 @@ class DecisionAgent(BaseAgent):
 
             After your main answer, provide exactly 3 follow-up questions the user
             might want to ask next, formatted as:
-
             FOLLOW_UP_1: <question>
             FOLLOW_UP_2: <question>
             FOLLOW_UP_3: <question>

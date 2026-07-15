@@ -233,7 +233,7 @@ class DecisionAgent(BaseAgent):
         return max(0.0, confidence)
 
     def run(self, agent_input: AgentInput) -> AgentOutput:
-        """Executes the Decision Agent's retrieval and synthesis pipeline.
+        """Executes the Decision Agents retrieval and synthesis pipeline.
 
         Args:
             agent_input: Standard AgentInput containing the query,

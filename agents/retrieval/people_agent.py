@@ -9,7 +9,7 @@ Responsibilities:
     - Handle queries classified as QueryCategory.PEOPLE by the router.
     - Retrieve relevant email chunks filtered by person where possible.
     - Query Neo4j graph for person nodes, relationships, and networks.
-    - Synthesise a grounded answer about people, roles, and relationships.
+    - Synthesise a grounded answer about people, roles and relationships.
     - Return structured sources and follow-up questions.
 
 Workflow:

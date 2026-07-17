@@ -26,7 +26,6 @@ Workflow:
 
 import re
 from typing import Optional
-
 from loguru import logger
 
 from agents.base_agent import BaseAgent

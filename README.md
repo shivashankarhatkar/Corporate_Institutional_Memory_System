@@ -412,4 +412,4 @@ This project uses the **Enron Email Dataset** (~1000 emails subset) as realistic
 
 ## 📄 License
 
-Personal learning project — built for educational purposes using the publicly available Enron Email Dataset.
+Personal Project.

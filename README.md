@@ -1,6 +1,6 @@
 # 🧠 Corporate Institutional Memory System
 
-> A multi-agent AI system that captures, connects, and preserves an organisation's collective knowledge — decisions, relationships, lessons learned, and expertise — before it walks out the door.
+ A multi-agent AI system that captures, connects, and preserves an organisation's collective knowledge — decisions, relationships, lessons learned, and expertise — before it walks out the door.
 
 Built as a deep-dive learning project into **multi-agent orchestration**, **LangGraph state machines**, **hybrid RAG (vector + graph)**, and **production-grade agentic system design**.
 

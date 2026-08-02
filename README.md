@@ -17,7 +17,7 @@ Every organisation loses years of institutional knowledge silently:
 
 This system solves that by building a **living, queryable second brain** for the organisation — powered by a coordinated team of AI agents rather than a single monolithic chatbot.
 
---------
+--------------------------------------------
 
 ## 🏗️ Architecture Overview
 

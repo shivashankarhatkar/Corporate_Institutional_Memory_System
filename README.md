@@ -6,7 +6,7 @@ Built as a deep-dive learning project into **multi-agent orchestration**, **Lang
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-## 📌 The Problem
+## 📌 The Problem -
 
 Every organisation loses years of institutional knowledge silently:
 

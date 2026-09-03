@@ -21,7 +21,7 @@ This system solves that by building a **living, queryable second brain** for the
 
 ## 🏗️ Architecture Overview
 
-`````
+```````
                           ┌─────────────────────────┐
                           │   Master Orchestrator    │
                           │   (top-level router)     │
